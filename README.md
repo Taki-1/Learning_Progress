@@ -18,3 +18,6 @@ Day 5:
 
 Day 6:
 [(picoCTF) No Sql Injection], https://github.com/Taki-1/Python_Tools
+
+Day 7:
+(picoCTF) SOAP, More SQLi
