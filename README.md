@@ -23,4 +23,4 @@ Day 7:
 (picoCTF) SOAP, More SQLi
 
 Day 10:
-(picoCTF) MatchTheRegex, Java Code Analysis!?!, findme, SQLiLite, SQL Direct, Secrets
+(picoCTF) MatchTheRegex, Java Code Analysis!?!, findme, SQLiLite, SQL Direct, Secrets, Search source, Roboto Sans, Power Cookie
